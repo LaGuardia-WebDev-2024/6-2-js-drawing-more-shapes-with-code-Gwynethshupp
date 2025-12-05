@@ -10,10 +10,14 @@ void draw(){
   fill(255,255,255);
   strokeWeight(3);
 
-  //💡⬇️⬇️⬇️💡 Your Code For This Unit Goes Here
+  //Snowman Your Code For This Unit Goes Here
   ellipse(200, 300, 150, 150);
   ellipse(200, 200, 100, 100);
   ellipse(200, 120, 75, 75);
+
+  rect(175,40,50,50)
+  line(100,120,176,120)
+  ellipse(200,110,10,10)
   
 
 }
